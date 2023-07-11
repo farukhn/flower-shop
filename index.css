@@ -44,11 +44,12 @@
 }
 
 .featured-img{
-    margin-left: 24px;
+    
     margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
     font-size: 24px;
+    gap: 50px;
     
 }
 /* .featured-img img {
@@ -134,7 +135,7 @@ p {
     font-size: 18px;
 }
 .insta-img{
-    margin-left: 24px;
+    
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
